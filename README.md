@@ -1,2 +1,2 @@
 # goyy.github.io
-goyy
+goyy.org
